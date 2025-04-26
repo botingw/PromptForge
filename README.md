@@ -24,6 +24,7 @@ git clone https://github.com/youracct/promptforge && cd promptforge
 
 # 2. Install rules into an existing project
 python src/manage_rules.py install ~/git/my_project
+```
 
 ## Directory Overview
 
