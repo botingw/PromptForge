@@ -43,7 +43,7 @@ src/               # rule management scripts
 > This repository is a **name-testing mirror** with no code inside.  
 > Click below to explore the full project, docs and install script:
 
-[Go to the working repo](https://github.com/botingw/rulebook-ai?src=github_abtest-PromptForge)
+[Go to the working repo](https://github.com/botingw/rules_template?src=github_abtest-PromptForge)
 
 
 
