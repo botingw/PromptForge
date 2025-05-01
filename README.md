@@ -2,6 +2,12 @@
 
 <!-- Badges here (license, build) -->
 
+> **Heads-up!**  
+> This repository is a **name-testing mirror** with no code inside.  
+> Click below to explore the full project, docs and install script:
+
+[Go to the working repo](https://github.com/botingw/rulebook-ai?src=github_abtest-PromptForge)
+
 # PromptForge ⚒️ — Craft Reusable AI Prompts & Rules Across Any IDE
 
 **One rule set, every coding assistant.** PromptForge lets you design, version and sync prompts + rules for Cursor, CLINE, RooCode and Windsurf—backed by a built-in “Memory Bank” so your AI partner always knows your project’s architecture, decisions and task backlog.
